@@ -1,4 +1,4 @@
-module gorpg
+module github.com/eklownr/gorpg
 
 go 1.24.0
 
