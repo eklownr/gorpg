@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	_ "embed"
-	"gorpg/tilemaps"
 	"image"
 	"image/color"
 	_ "image/png"
@@ -11,6 +10,8 @@ import (
 	"math/rand"
 
 	"time"
+
+  "github.com/eklownr/gorpg/tilemaps"
 
 	"github.com/ebitenui/ebitenui/widget"
 	"github.com/hajimehoshi/ebiten/examples/resources/fonts"
