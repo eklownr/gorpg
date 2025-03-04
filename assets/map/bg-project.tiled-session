@@ -1,0 +1,91 @@
+{
+    "activeFile": "water_bg.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TilesetWater.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level1_bg.json": {
+            "scale": 0.43640624999999994,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4582885785893,
+                "y": 360.9022556390977
+            }
+        },
+        "level1_bg.tmx": {
+            "scale": 0.43640624999999994,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4582885785893,
+                "y": 360.9022556390977
+            }
+        },
+        "level2_bg.json": {
+            "scale": 0.43640624999999994,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4582885785893,
+                "y": 360.9022556390977
+            }
+        },
+        "level2_bg.tmj": {
+            "scale": 0.43640624999999994,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.4582885785893,
+                "y": 360.9022556390977
+            }
+        },
+        "level4_bg.json": {
+            "scale": 0.8728124999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.22914428929465,
+                "y": 183.88829215896882
+            }
+        },
+        "tileset_floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset_floor2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "water_bg.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.5,
+                "y": 183.5
+            }
+        }
+    },
+    "openFiles": [
+        "level1_bg.json",
+        "level1_bg.tmx",
+        "level2_bg.json",
+        "level2_bg.tmj",
+        "level4_bg.json",
+        "tileset_floor.tsx",
+        "tileset_floor2.tsx",
+        "TilesetWater.tsx",
+        "water_bg.json"
+    ],
+    "project": "bg-project.tiled-project",
+    "recentFiles": [
+        "level1_bg.json",
+        "level1_bg.tmx",
+        "level2_bg.json",
+        "level2_bg.tmj",
+        "level4_bg.json",
+        "tileset_floor.tsx",
+        "tileset_floor2.tsx",
+        "TilesetWater.tsx",
+        "water_bg.json"
+    ]
+}
